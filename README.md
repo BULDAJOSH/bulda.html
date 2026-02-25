@@ -9,7 +9,7 @@
     <h1><strong>BEYOND THE LIMIT</strong></h1>
 
     
-    <img src="https://via.placeholder.com/300x350.png?text=Beyond+The+Limit+T-Shirt" alt="Beyond The Limit T-Shirt">
+    <img src="BTL.jpg" alt="Beyond The Limit T-Shirt">
 
     
     <h2>Product Information</h2>
