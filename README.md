@@ -10,7 +10,7 @@
 
     
 <img src="https://highabovesociety.com/cdn/shop/files/image.jpg?v=1684951865" 
-     alt="beyond the limit classsic logo T-shirt" width="60" height="50">
+     alt="beyond the limit classsic logo T-shirt" width="200" height="150">
      
     <h2>Product Information</h2>
 
