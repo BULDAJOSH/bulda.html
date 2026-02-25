@@ -9,7 +9,7 @@
     <h1><strong>BEYOND THE LIMIT</strong></h1>
 
     
-    <img src="https://raw.githubusercontent.com/BULDAJOSH/bulda.html/main/BTL.jpeg" alt="Beyond The Limit T-Shirt">
+    <img src="https://highabovesociety.com/cdn/shop/files/image.jpg?v=1684951865" alt="Beyond The Limit T-Shirt">
 
     
     <h2>Product Information</h2>
