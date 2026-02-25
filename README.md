@@ -9,7 +9,7 @@
     <h1><strong>BEYOND THE LIMIT</strong></h1>
 
     
-    <img src="BTL.jpg" alt="Beyond The Limit T-Shirt">
+    <img src="BTL.jpeg" alt="Beyond The Limit T-Shirt">
 
     
     <h2>Product Information</h2>
