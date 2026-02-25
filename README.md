@@ -9,8 +9,7 @@
     <h1><strong>BEYOND THE LIMIT</strong></h1>
 
     
-    <img src="![BTL (1)](https://github.com/user-attachments/assets/400cfed0-e987-46af-a7ae-53c6e4e92aff)
-" alt="Beyond The Limit T-Shirt">
+    <img src="https://raw.githubusercontent.com/BULDAJOSH/bulda.html/main/BTL.jpeg" alt="Beyond The Limit T-Shirt">
 
     
     <h2>Product Information</h2>
